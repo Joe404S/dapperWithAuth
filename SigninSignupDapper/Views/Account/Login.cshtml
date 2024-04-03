@@ -1,0 +1,43 @@
+﻿@model SigninSignupDapper.Models.LoginVM
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	Layout="";
+}
+<head>
+	<link rel="stylesheet" href="~/css/Style.css" asp-append-version="true" />
+</head>
+<div class="container">
+
+	@using (Html.BeginForm("Login", "Account", FormMethod.Post))
+	{
+		@Html.AntiForgeryToken()
+
+
+
+
+		<h1 class="fonText">LOGIN</h1>
+		<p class="fonText">Please enter you Email and Password!</p>
+		@Html.TextBoxFor(m => m.Email, new { @class = "Palaposta", placeholder = "Email", name = "Email" })
+		@*<input type="email" name="email" class="Palaposta"  placeholder="Enter Email Address">*@
+		<br>
+		@Html.PasswordFor(m => m.Password, new { @class = "Palaposta", placeholder = "Password", name = "Password" })
+		@*<input type="password" name="password" class="Palaposta" placeholder="Enter Password">*@
+		<br>
+		<a href="#">Forgor Passwor?</a>
+		<br>
+		<input type="submit" name="submit" value="Login" class="fonText submitbut">
+		<br>
+		<a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
+		<a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
+		<a href=""><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+
+
+
+
+
+
+
+	}
+</div>

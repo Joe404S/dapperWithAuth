@@ -37,3 +37,4 @@ C:\Users\USER\Desktop\Projects\ClaimIdentity\SigninSignupDapper\obj\Debug\net8.0
 C:\Users\USER\Desktop\Projects\ClaimIdentity\SigninSignupDapper\obj\Debug\net8.0\SigninSignupDapper.pdb
 C:\Users\USER\Desktop\Projects\ClaimIdentity\SigninSignupDapper\obj\Debug\net8.0\SigninSignupDapper.genruntimeconfig.cache
 C:\Users\USER\Desktop\Projects\ClaimIdentity\SigninSignupDapper\obj\Debug\net8.0\ref\SigninSignupDapper.dll
+C:\Users\USER\Desktop\Projects\ClaimIdentity\SigninSignupDapper\obj\Debug\net8.0\SigninSignupDapper.sourcelink.json

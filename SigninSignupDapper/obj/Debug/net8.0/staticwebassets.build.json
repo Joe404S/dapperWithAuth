@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yukRpeQmEMrSxQ0IIgfadDyZM4rNzFeUoK5N97XXo6M=",
+  "Hash": "nK62SVESi3hv2lao7O1mFz2/9/87bev+964TxgloXQg=",
   "Source": "SigninSignupDapper",
   "BasePath": "_content/SigninSignupDapper",
   "Mode": "Default",
@@ -74,12 +74,12 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\wwwroot\\css\\Styles.css",
+      "Identity": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\wwwroot\\css\\Style.css",
       "SourceId": "SigninSignupDapper",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\wwwroot\\",
       "BasePath": "_content/SigninSignupDapper",
-      "RelativePath": "css/Styles.css",
+      "RelativePath": "css/Style.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,7 +90,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\Styles.css"
+      "OriginalItemSpec": "wwwroot\\css\\Style.css"
     },
     {
       "Identity": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\wwwroot\\favicon.ico",

@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|c:\\users\\user\\desktop\\projects\\claimidentity\\signinsignupdapper\\controllers\\basecontroller\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|solutionrelative:signinsignupdapper\\controllers\\basecontroller\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|c:\\users\\user\\desktop\\projects\\claimidentity\\signinsignupdapper\\models\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|solutionrelative:signinsignupdapper\\models\\currentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\signinsignupdapper\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|solutionrelative:signinsignupdapper\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\signinsignupdapper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|solutionrelative:signinsignupdapper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\signinsignupdapper\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|solutionrelative:signinsignupdapper\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\signinsignupdapper\\views\\home\\hr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|solutionrelative:signinsignupdapper\\views\\home\\hr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\signinsignupdapper\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|solutionrelative:signinsignupdapper\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\signinsignupdapper\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|solutionrelative:signinsignupdapper\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\signinsignupdapper\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|solutionrelative:signinsignupdapper\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\signinsignupdapper\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|solutionrelative:signinsignupdapper\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\signinsignupdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|solutionrelative:signinsignupdapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|c:\\users\\user\\desktop\\projects\\claimidentity\\signinsignupdapper\\autherization\\autherizationrequirements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|solutionrelative:signinsignupdapper\\autherization\\autherizationrequirements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\signinsignupdapper\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADEE85A-4746-4D84-8690-6FCEA9972A1B}|SigninSignupDapper\\SigninSignupDapper.csproj|solutionrelative:signinsignupdapper\\models\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Models\\CurrentUser.cs",
+              "RelativeDocumentMoniker": "SigninSignupDapper\\Models\\CurrentUser.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Models\\CurrentUser.cs",
+              "RelativeToolTip": "SigninSignupDapper\\Models\\CurrentUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:01:03.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SigninSignupDapper\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SigninSignupDapper\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:24:15.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Controllers\\BaseController\\BaseController.cs",
+              "RelativeDocumentMoniker": "SigninSignupDapper\\Controllers\\BaseController\\BaseController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Controllers\\BaseController\\BaseController.cs",
+              "RelativeToolTip": "SigninSignupDapper\\Controllers\\BaseController\\BaseController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:42:07.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SigninSignupDapper\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Models\\User.cs",
+              "RelativeToolTip": "SigninSignupDapper\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:26:19.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SigninSignupDapper\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SigninSignupDapper\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:26:24.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SigninSignupDapper\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SigninSignupDapper\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T07:26:58.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HR.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Views\\Home\\HR.cshtml",
+              "RelativeDocumentMoniker": "SigninSignupDapper\\Views\\Home\\HR.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Views\\Home\\HR.cshtml",
+              "RelativeToolTip": "SigninSignupDapper\\Views\\Home\\HR.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T17:35:52.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SigninSignupDapper\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SigninSignupDapper\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T07:26:39.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SigninSignupDapper\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SigninSignupDapper\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:25:08.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SigninSignupDapper\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SigninSignupDapper\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxYAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T18:49:47.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Program.cs",
+              "RelativeDocumentMoniker": "SigninSignupDapper\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Program.cs",
+              "RelativeToolTip": "SigninSignupDapper\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:31:47.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutherizationRequirements.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Autherization\\AutherizationRequirements.cs",
+              "RelativeDocumentMoniker": "SigninSignupDapper\\Autherization\\AutherizationRequirements.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Autherization\\AutherizationRequirements.cs",
+              "RelativeToolTip": "SigninSignupDapper\\Autherization\\AutherizationRequirements.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:30:05.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Models\\LoginVM.cs",
+              "RelativeDocumentMoniker": "SigninSignupDapper\\Models\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Projects\\ClaimIdentity\\SigninSignupDapper\\Models\\LoginVM.cs",
+              "RelativeToolTip": "SigninSignupDapper\\Models\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:26:18.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

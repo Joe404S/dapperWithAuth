@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SigninSignupDapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65f80133233cbe317f03c597678d824813f0d2ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a21ad3f7ca99ff7fb7548187c2c03eb405757cf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SigninSignupDapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SigninSignupDapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

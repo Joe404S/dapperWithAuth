@@ -1,0 +1,55 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+.container{
+    position: absolute;
+    width: 40%;
+    top: 30%;
+    left: 30%;
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+    background-blend-mode: multiply;
+    text-align: center;
+    border-radius: 10px;
+    padding: 15px;
+}
+.fonText{
+    color:aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.Palaposta{
+    background: transparent;
+    border: none;
+    text-align: center;
+    border: 1px #fdcbf1 solid;
+    border-radius: 15px;
+    margin: 10px 20px;
+    padding: 10px 20px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    word-spacing: 5px;
+    letter-spacing: 1.5px;
+    padding: 10px 10px;
+    margin:10px 10px ;
+    font-size: 12px;
+}
+a:hover{
+    text-decoration: underline;
+}
+.submitbut{
+    margin: 10px 20px;
+    padding: 7px 40px;
+    background: transparent;
+    border: none;
+    border: 1px #a1c4fd solid;
+    border-radius: 15px;
+}
+a i{
+    margin: 10px;
+    padding: 10px;
+}
+p{
+    font-size: 12px;
+}
